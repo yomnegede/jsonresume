@@ -1,0 +1,175 @@
+{
+    "firstname": "Yom",
+    "lastname": "Negede",
+    "contact": {
+    "email": "yomnegede@gmail.com",
+    "phone": "(470) 908 6688",
+    "linkedin": "https://www.linkedin.com/in/yom-negede-808755216/",
+    "github": "https://github.com/yomnegede"
+    },
+    "skills": {
+    "details": [
+    {
+    "type": "Programming Languages",
+    "items": [
+    "Python",
+    "Java",
+    "Javascript",
+    "HTML",
+    "CSS"
+    ]
+    },
+    {
+    "type": "Web Frameworks",
+    "items": [
+    "React"
+    ]
+    },
+    {
+    "type": "Tools",
+    "items": [
+    "Git"
+    ]
+    },
+    {
+    "type": "Interests",
+    "items": [
+    "Software Engineering",
+    "Machine Learning",
+    "Web Development",
+    "Product Management",
+    "Data Analysis"
+    ]
+    }
+    ]
+    },
+    "github_projects": {
+    "items": [
+    {
+    "project_name": "Personalized Profile Webpage",
+    "tagline": "[github.com/yomnegede/personal-profile](   https://github.com/yomnegede/personal-profile)",
+    "description": [
+    "Developed a dynamic personal portfolio webpage using Streamlit, a Python-based web application framework. Utilized Python to create interactive sections for showcasing educational background, professional experience, projects, and skills. Integrated Streamlit's functionality to enhance user experience, enabling easy navigation and display of information."
+    ],
+    "technology_used": {
+    "tools": [
+    "Python",
+    "Pandas",
+    "Streamlit"
+    ]
+    }
+    },
+    {
+    "project_name": "Pokemon Exploration App",
+    "tagline": "[github.com/yomnegede/pokemon-explorer](https://github.com/yomnegede/pokemon-explorer)",
+    "description": [
+    "Streamlit webapp containing the following implemented functionalities: Search Pokémon, Random Pokémon Generator, Pokémon Ability Finder. Integrated PokeAPI for real-time Pokémon data retrieval. Designed clean and intuitive user interface with error handling and randomization."
+    ],
+    "technology_used": {
+    "tools": [
+    "Python",
+    "Pandas",
+    "Streamlit"
+    ]
+    }
+    },
+    {
+    "project_name": "Google Search Clone",
+    "tagline": "[github.com/yomnegede/googlerecreation](https://github.com/yomnegede/googlerecreation)",
+    "description": [
+    "Crafted search bar, buttons, and navigational links. Meticulously coded each element for exact functionality and aesthetics. Implemented functionality to connect to a Paul George information page upon clicking on profile."
+    ],
+    "technology_used": {
+    "tools": [
+    "HTML",
+    "CSS"
+    ]
+    }
+    }
+    ]
+    },
+    "work_experience": {
+    "items": [
+    {
+    "title": "Student Assistant",
+    "organization": "Georgia Tech Brook Byers Institue for Sustainable Systems",
+    "location": "Atlanta, GA",
+    "from": "February 2024",
+    "to": "May 2024",
+    "details": [
+    "Assisting in creation of a network-mapping project displaying past research-community partnerships at Georgia Tech through an interactive map using React JS and JavaScript. Held researcher stakeholder meetings determining what users would like to see from the tool. Supporting administrative tasks including meeting planning, note-taking, creating datasheets through Excel."
+    ],
+    "technology_used": {
+    "tools": [
+    "React.js",
+    "JavaScript"
+    ]
+    }
+    }
+    ]
+    },
+    "involvement": {
+    "organizations": [
+    "National Society of Black Engineers, Member, August 2023 to Present",
+    "GT iOS Club, Member, August 2023 to Present",
+    "Black Students in Computing Organization, Membership Chair, August 2023 to Present",
+    "GT Ethiopian- Eritrean Student Association, Secretary, Jan 2024 to Present"
+    ]
+    },
+    "achievements": {
+    "items": [
+    "Denning Technology & Management Scholar",
+    "AP Capstone Diploma",
+    "AP Scholar"
+    ]
+    },
+    "additional_info": {
+    "items": [
+    "Languages: English (fluent), Amharic (fluent), Spanish (proficient)",
+    "Interests: Basketball, Streaming, Tutoring, Hanging out with friends."
+    ]
+    },
+    "education": {
+    "schools": [
+    {
+    "degree": "Bachelor of Science",
+    "major": "Computer Science",
+    "institution": "Georgia Institute of Technology",
+    "graduation_year": 2027
+    }
+    ]
+    },
+    "undergrad_courses": [
+    {
+    "name": "Object Oriented Programming",
+    "url": "https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201302&subj_code_in=CS&crse_numb_in=1331"
+    },
+    {
+    "name": "Linear Algebra",
+    "url": "https://math.gatech.edu/courses/math/1554"
+    },
+    {
+    "name": "Intro to Computer Science",
+    "url": "https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201002&subj_code_in=CS&crse_numb_in=1301"
+    }
+    ],
+    "research_experience": {
+    "items": [
+    {
+    "title": "Independent Researcher",
+    "organization": "AP Research Participant",
+    "from": "Aug 2022",
+    "to": "May 2023",
+    "points": [
+    "Researched the extent to which having home court provides an advantage to the home team in producing wins in Georgia high school basketball games."
+    ]
+    }
+    ]
+    },
+    "show_assessments_on_resume": {
+    "required_assessment": true,
+    "optional_assessment_1": true,
+    "optional_assessment_2": true,
+    "optional_assessment_3": true
+    }
+    }
